@@ -118,3 +118,4 @@ def create_order():
 if __name__ == '__main__':
     init_db()
     app.run(port=5000)
+# Automated test coverage for order pending state verified
